@@ -244,7 +244,15 @@ In this case `css` and `js` are the sub folders
 ### Happy learning
 
 ### To know more about [Django](https://www.djangoproject.com/) Click [Here](https://www.djangoproject.com/)
-### To know more about [APPARKY](https://apparky-soumenmtec-gmailcom.vercel.app/) Clink [Here](https://apparky-soumenmtec-gmailcom.vercel.app/)
+
+
+-------------------
+> 
+> To get more interesting projects follow you GitHub page at [Here](https://github.com/Apparky)
+> 
+> To get more interesting projects follow you Bitbucket page at [Here](https://bitbucket.org/apparky-web/workspace/overview)
+> 
+> To know more about [APPARKY](https://apparky-soumenmtec-gmailcom.vercel.app/) Click [Here](https://apparky-soumenmtec-gmailcom.vercel.app/)
 
 
 
